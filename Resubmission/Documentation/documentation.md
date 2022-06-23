@@ -66,7 +66,7 @@ Other than the code from W3Schools the only other thing I've taken from an outsi
 
 # Portfolio
 
-I want my portfolio to showcase some of my strengths in IT, mainly creative things I have done either on the course or off it previously. The following is a list I created that 
+I want my portfolio to showcase some of my strengths in IT. I'm not too good with the technical parts, like programming a website or even just handling a git hub account without breaking it somehow, so for my achievements that I can show in IT mainly creative things I have done either on the course or off it previously. The following is a list I created that 
 
 - Mos specialist awards (Excel, Word, Powerpoint, Word/Excel Expert)
 - Examples of my photo editing work
@@ -75,8 +75,7 @@ I want my portfolio to showcase some of my strengths in IT, mainly creative thin
 - Unit 13's phone website
 - Music, Soundcloud
 
-
 #
 
-    28/05/22 - 07/06/22
+
 
