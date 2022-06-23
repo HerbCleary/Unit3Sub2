@@ -4,7 +4,6 @@
 
 Here is the timeline I made estimating how and when I'll get everything done. Hopefully I will have things done by these dates but who knows.
 
-    Herb 23/05/22
 
 # Storyboard
 
@@ -22,19 +21,28 @@ Giving it a go I didn't really jive with the vibe of it all so I took a step bac
 
 ![board3](img/boardpg3.png)
 
-I wanted to create something simple and not too complex. Something that showed off my skills but also felt like it represented a piece of me and showed it off.
+I wanted to create something simple and not too complex.
 
 The design was pretty simple and with this new set of boards ready I got to work piecing the website together.
 
 After setting up a basic page I made some progress and tried out using an animated navigation bar that would slide into the page and have links to the other pages.
 
-![prog1](img/earlypage.gif)
+![proggif](img/earlypage.gif)
 
     Herb 23/05/22
 
-Here is how the website is looking so far.
+![prog1](img/prog1.png)
 
-![prog2](img/websiteday4.png)
+I changed around how the bar navigation bar was positioned. I tried it both at the top where I had originally planned it to be in my storyboard and then at the bottom of the page. I liked how the animation worked with it sliding up and decided to deviate from my initial board design to have it below.
+
+I then added a carousel in the center that had the main aspects of my skills that I wanted to show: MOS, Photoshop, 3D Models, Music and website creation.
+
+![prog2](img/prog2.png)
+
+The portfolio page is similar but slightly different from the initial board design. I kept the block design similar but changed the contents. Instead of one big block showcasing the images and previous works and the smaller block showcasing the info of said big block I changed it to have both block and image be put into one block of their own.
+
+![board2](img/boardpg2.png)
+![prog3](img/prog3.png)
 
 # Asset list
 
@@ -60,9 +68,7 @@ Other parts of code have also been lifted from my last project for Unit 13 as it
 
 Other than the code from W3Schools the only other thing I've taken from an outside source are the badge images from Certiport / Microsoft, all of which I myself had earned by taking their exams.
 
-![buttons](img/allbuttons.PNG)
-
-    Herb 23/05/22
+![buttons](img/Mos_All.PNG)
 
 # Portfolio
 
