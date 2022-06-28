@@ -391,5 +391,37 @@ a:hover {
 }
 
 .paa {
+  padding-top: 30px;
   padding-bottom: 325px;
+}
+
+.paaa {
+  padding-bottom: 25px;
+  text-align:center;
+}
+
+.paaaa {
+  padding-top: 30px;
+  padding-bottom: 25px;
+}
+
+.aboutbox {
+  width: 1000px;
+  height: 650px;
+  min-height: 300px;
+  min-width: 700px;
+  max-width: 1000px;
+  max-height: 1000px;
+  column-count: 3;
+  column-gap: 150px;
+  padding: 10px;
+  display:flex ;
+}
+
+.prof {
+  text-align: center;
+  color: #fff;
+  background-color: #0f2e472a;
+  padding-bottom: 10px;
+  margin: auto;
 }

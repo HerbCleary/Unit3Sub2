@@ -174,7 +174,7 @@ All the photos shown were my own work and using my own photographs aside from th
 
 #
 
-<b>Tinkercad:</b> All the creations shown from tinkercad are my own work. https://www.tinkercad.com/dashboard
+<b>Tinkercad:</b> All the creations shown from tinkercad are my own work and were my own. My tinkercad page: https://www.tinkercad.com/dashboard
 
   <img src="img/tinkcad1.png" alt="drawing" height="150px" width="200px"/>
   <img src="img/tinkcad2.png" alt="drawing" height="150px" width="200px"/>
@@ -200,6 +200,24 @@ All the photos shown were my own work and using my own photographs aside from th
   <img src="img/music4.png" alt="drawing" height="100px" width="250px"/>
   <img src="img/music5.png" alt="drawing" height="100px" width="250px"/>
 
+#
+
+The overlay for the background and the css code for the navigation bar were both from W3Schools. 
+
+Overlay effect
+<https://www.w3schools.com/howto/howto_css_overlay.asp>
+
+CSS Animation
+<https://www.w3schools.com/css/css3_animations.asp>
+
+#
+
+<b>Text:</b> I used the font Amatic SC cursive from google fonts
+https://fonts.google.com/specimen/Amatic+SC?query=amati
+
+<img src="img/font.png" alt="drawing" height="75px" width="500px"/>
+
+#
 
 ### Links
 
@@ -223,11 +241,11 @@ Here are links to all the stuff I used again just in case they were missed in th
 + Music
   + My own music that I've made and uploaded in my spare time. https://soundcloud.com/time_to_love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
-I also used parts of code from my previous website that I built on Unit 13. Aside from the small parts 
-
 # Portfolio
 
-I want my portfolio to showcase some of my strengths in IT. I'm not too good with the technical parts, like programming a website or even just handling a git hub account without breaking it somehow, so for my achievements that I can show in IT mainly creative things I have done either on the course or off it previously. The following is a list I created that
+I want my portfolio to showcase some of my strengths in IT. I'm not too good with the technical parts, like programming a website or even just handling a git hub account without breaking it somehow, so for my achievements that I can show in IT mainly creative things I have done either on the course or off it previously.
+
+The main skills I want to include and show off:
 
 + Mos specialist awards (Excel, Word, Powerpoint, Word/Excel Expert)
 + Examples of my photo editing work
@@ -237,7 +255,7 @@ I want my portfolio to showcase some of my strengths in IT. I'm not too good wit
 
 #
 
-(Creative and a learner)
+Aspects I want to show off: (Creative and a learner)
 
 Learner aspects:
 
@@ -265,6 +283,8 @@ To make sure the website was working I need to make sure I've tested and checked
 
 + Make sure that the website works on other browsers (Chrome, Microsoft Edge, Firefox, etc...)
 
++ Check any and all spelling mistakes
+
 + And finally, Get feedback from colleagues
 
 #
@@ -276,3 +296,10 @@ To make sure the website was working I need to make sure I've tested and checked
 + ## Chrome
 
   + I started by opening the website on Chrome, the default browser I had been working with, and tested out the links.
+
+
+# Feedback
+
+###  Nojus
+Everything looks great the disorganised boxes give it a brick like structure which looks great and the text is very detailed, the "About me" section would benefit to have more details though, and the homepage is pretty well made as well.
+the only other thing i can suggest is to not sit infront of the fucking sun
