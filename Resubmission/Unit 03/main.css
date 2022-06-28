@@ -100,8 +100,6 @@
   text-align: center;
 }
 
-
-
 a {
   text-decoration: none;
   display:flexbox;
@@ -110,6 +108,11 @@ a {
   font-size: 35px;
 }
 
+.fo1 {
+  text-align: center;
+  color: #fff;
+  font-size: 75px;
+}
 
 .herb {
   text-align: center;

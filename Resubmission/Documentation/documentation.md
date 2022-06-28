@@ -54,21 +54,21 @@ In this following section I'll be showcasing:
 
 For the project I came up with this timeline that sets out a rough set of dates that I aim to start and finish the content for each of the 3 tasks and the dates that I had aimed to do so.
 
-![timeline](img/timeline.png)
+![timeline](boards-charts/timeline.png)
 
 ## Storyboard
 
 With my storyboard I started off with these first two pages that were pretty underdeveloped.
 
-![earlyboard1](img/earlyboard1.png)
-![earlyboard2](img/earlyboard2.png)
+![earlyboard1](boards-charts/earlyboard1.png)
+![earlyboard2](boards-charts/earlyboard2.png)
 
 I made these designs just from the top of my head after looking at a few portfolios.
 Giving it a go I didn't really jive with the vibe of it all so I took a step back and started over. I looked at some more portfolios online and came up with some more ideas of what to use in mine and eventually I made these boards.
 
-![board1](img/boardpg1.png)
-![board2](img/boardpg2.png)
-![board3](img/boardpg3.png)
+![board1](boards-charts/boardpg1.png)
+![board2](boards-charts/boardpg2.png)
+![board3](boards-charts/boardpg3.png)
 
 I wanted to create something simple and not too complex.
 
@@ -92,7 +92,7 @@ I then added a carousel in the center that had the main aspects of my skills tha
 
 The portfolio page is similar but slightly different from the initial board design. I kept the block design similar but changed the contents. Instead of one big block showcasing the images and previous works and the smaller block showcasing the info of said big block I changed it to have both block and image be put into one block of their own.
 
-![board2](img/boardpg2.png)
+![board2](boards-charts/boardpg2.png)
 ![prog3](img/prog3.png)
 
 #
@@ -103,39 +103,127 @@ Chart 1: Page navigation
 
 Below I have created a chart showing how the pages relate and which page connects where. On the main page you can navigate to either the about me or portfolio pages as it's main option alongside being able to select links embedded to the main carousel that sends you to an individual page relating to the 5 main topics I decided to showcase in my portfolio.
 
-![navigation pages](img/navchart2.png)
+![navigation pages](boards-charts/navchart2.png)
 
 Chart 2: Navigation bar navigation
 
 The same as the page navigation but stylized the way my main navigation bar is.
 
-![navigation bar](img/navchart.png)
+![navigation bar](boards-charts/navchart.png)
 
 #
 
 ## Asset list
 
-+ Microsoft Office Specialist awards
+
+<b>My photos:</b>
+Taken and owned by me.
+
+  <img src="img/backorigin.jpg" alt="drawing" height="230px" width="200px"/>
+    <img src="img/bg1.png" alt="drawing" height="130px" width="200px"/>
+        <img src="img/bg2.png" alt="drawing" height="130px" width="200px"/>
+            <img src="img/bg3.png" alt="drawing" height="130px" width="200px"/>
+ <img src="img/me1.jpg" alt="drawing" height="200px" width="200px"/>
+ <img src="img/me2.jpg" alt="drawing" height="200px" width="200px"/>
+
+#
+
+<b>Boards and other document related assets:</b>
+Made using photoshop, owned by me.
+
+  <img src="boards-charts/boardpg1.png" alt="drawing" height="250px" width="450px"/>
+  <img src="boards-charts/boardpg2.png" alt="drawing" height="250px" width="450px"/>
+  <img src="boards-charts/boardpg3.png" alt="drawing" height="250px" width="450px"/>
+    <img src="boards-charts/earlyboard1.png" alt="drawing" height="250px" width="450px"/>
+  <img src="boards-charts/earlyboard2.png" alt="drawing" height="250px" width="450px"/>
+  <img src="boards-charts/navchart.png" alt="drawing" height="250px" width="450px"/>
+  <img src="boards-charts/navchart2.png" alt="drawing" height="250px" width="450px"/>
+  <img src="boards-charts/timeline.png" alt="drawing" height="250px" width="450px"/>
+
+  <b>Progress screenshots:</b>
+
+  <img src="img/earlypage.gif" alt="drawing" height="150px" width="450px"/>
+  <img src="img/prog1.png" alt="drawing" height="250px" width="450px"/>
+  <img src="img/prog2.png" alt="drawing" height="250px" width="450px"/>
+  <img src="img/prog3.png" alt="drawing" height="250px" width="450px"/>
+
+#
+
+<b>Microsoft office 365:</b> Images are owned by Credly. https://www.credly.com/users/herb-cleary
+
+  <img src="img/mos_excel_expert.png" alt="drawing" height="200px" width="200px"/>
+  <img src="img/mos_excel.png" alt="drawing" height="200px" width="200px"/>
+  <img src="img/mos_word_expert.png" alt="drawing" height="200px" width="200px"/>
+  <img src="img/mos_word.png" alt="drawing" height="200px" width="200px"/>
+  <img src="img/mos_associate.png" alt="drawing" height="200px" width="200px"/>
+  <img src="img/mos_office_expert.png" alt="drawing" height="200px" width="200px"/>      
+  <img src="img/mos_powerpoint.png" alt="drawing" height="200px" width="200px"/> 
+
+#
+
+<b>Photoshop:</b>
+All the photos shown were my own work and using my own photographs aside from the biker and the television images which I scanned from a book. I don't remember said book id or name it was like a year ago now.
+
+  <img src="img/ps1.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/ps2.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/ps3.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/ps4.jpg" alt="drawing" height="150px" width="200px"/>
+  <img src="img/ps5.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/ps6.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/ps7.png" alt="drawing" height="150px" width="200px"/>
+
+#
+
+<b>Tinkercad:</b> All the creations shown from tinkercad are my own work. https://www.tinkercad.com/dashboard
+
+  <img src="img/tinkcad1.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/tinkcad2.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/tinkcad3.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/tinkcad4.png" alt="drawing" height="150px" width="200px"/>
+  <img src="img/tinkcad5.png" alt="drawing" height="150px" width="200px"/>
+
+#
+
+<b>Unit 13 website:</b> The website was a work of my own creation and all I show off is just screenshots. The website can be found here: https://github.com/HerbCleary
+
+  <img src="img/web1.png" alt="drawing" height="150px" width="250px"/>
+  <img src="img/web2.png" alt="drawing" height="150px" width="250px"/>
+  <img src="img/web3.png" alt="drawing" height="150px" width="250px"/>
+
+#
+
+<b>Soundcloud:</b> There isn't any music playing on the website but a few screenshots of my songs from soundcloud. https://soundcloud.com/time_to_love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+  <img src="img/music1.png" alt="drawing" height="100px" width="250px"/>
+  <img src="img/music2.png" alt="drawing" height="100px" width="250px"/>
+  <img src="img/music3.png" alt="drawing" height="100px" width="250px"/>
+  <img src="img/music4.png" alt="drawing" height="100px" width="250px"/>
+  <img src="img/music5.png" alt="drawing" height="100px" width="250px"/>
+
+
+### Links
+
+Here are links to all the stuff I used again just in case they were missed in the massive list of stuff.
+
++ Microsoft Office Specialist award badges
+  + I used the badge png's from Credly which is here: https://www.credly.com/users/herb-cleary
+
 + Level 1 unit work (Logo's, Photoshop, 3D modeling)
+  + Other than Tinkercad this stuff is all just my own work and there are no links. https://www.tinkercad.com/dashboard
+
 + Unit 13 Website
-
-Aside the use of assets made by me I used very little in terms of others assets aside from borrowing and using snippets of code from the website W3Schools, a website built to teach and inform on how to do a variety of things with CSS or Html code among other things.
-
-Specifically:
+  + My github repository for my Unit 13 website: https://github.com/HerbCleary
 
 + Overlay effect
-
-<https://www.w3schools.com/howto/howto_css_overlay.asp>
+  + <https://www.w3schools.com/howto/howto_css_overlay.asp>
 
 + CSS Animation
+  + <https://www.w3schools.com/css/css3_animations.asp>
 
-<https://www.w3schools.com/css/css3_animations.asp>
++ Music
+  + My own music that I've made and uploaded in my spare time. https://soundcloud.com/time_to_love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
-Other parts of code have also been lifted from my last project for Unit 13 as it was a nice easy base to start building off.
-
-Other than the code from W3Schools the only other thing I've taken from an outside source are the badge images from Certiport / Microsoft, all of which I myself had earned by taking their exams.
-
-![buttons](img/Mos_All.PNG)
+I also used parts of code from my previous website that I built on Unit 13. Aside from the small parts 
 
 # Portfolio
 
