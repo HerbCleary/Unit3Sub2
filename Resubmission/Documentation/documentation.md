@@ -88,12 +88,13 @@ After starting the building process of my website I changed around how the navig
 
 I then added a carousel in the center that had the main aspects of my skills that I wanted to show: MOS, Photoshop, 3D Models, Music and website creation.
 
-![prog2](doc-img/prog2.png)
+![prog2](doc-img/prog2.PNG)
 
 The portfolio page is similar but slightly different from the initial board design. I kept the block design similar but changed the contents. Instead of one big block showcasing the images and previous works and the smaller block showcasing the info of said big block I changed it to have both block and image be put into one block of their own.
 
 ![board2](boards-charts/boardpg2.png)
-![prog3](img/prog3.png)
+
+![prog3](doc-img/prog3.PNG)
 
 #
 
@@ -152,18 +153,18 @@ My timeline was made using Adobe Express. https://express.adobe.com/sp/onboardin
   **Progress screenshots:**
 
   <img src="doc-img/earlypage.gif" alt="drawing" height="150px" width="450px"/>
-  <img src="doc-img/prog1.png" alt="drawing" height="250px" width="450px"/>
-  <img src="doc-img/prog2.png" alt="drawing" height="250px" width="450px"/>
-  <img src="doc-img/prog3.png" alt="drawing" height="250px" width="450px"/>
+  <img src="doc-img/prog1.PNG" alt="drawing" height="250px" width="450px"/>
+  <img src="doc-img/prog2.PNG" alt="drawing" height="250px" width="450px"/>
+  <img src="doc-img/prog3.PNG" alt="drawing" height="250px" width="450px"/>
 
 #
 
 **Microsoft office 365:** 
 Images are owned by Credly. https://www.credly.com/users/herb-cleary
 
-  <img src="doc-img/mos_excel_expert.png" alt="drawing" height="200px" width="200px"/>
-  <img src="doc-img/mos_excel.png" alt="drawing" height="200px" width="200px"/>
-  <img src="doc-img/mos_word_expert.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/MOS_Excel_Expert.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/MOS_Excel.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/MOS_Word_Expert.png" alt="drawing" height="200px" width="200px"/>
   <img src="doc-img/mos_word.png" alt="drawing" height="200px" width="200px"/>
   <img src="doc-img/mos_associate.png" alt="drawing" height="200px" width="200px"/>
   <img src="doc-img/mos_office_expert.png" alt="drawing" height="200px" width="200px"/>
