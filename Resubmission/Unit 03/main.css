@@ -28,7 +28,7 @@
     background-repeat: repeat;
     width: 100%;
     margin: 0;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC';
     color: white;
   }
 
@@ -98,6 +98,7 @@
   background: rgba(25, 118, 155, 0.836);
   padding: 25px;
   text-align: center;
+  font-size: 35px;
 }
 
 a {
@@ -105,7 +106,6 @@ a {
   display:flexbox;
   margin: 10px;
   color: #fff;
-  font-size: 35px;
 }
 
 .fo1 {
@@ -403,19 +403,22 @@ a:hover {
 .paaaa {
   padding-top: 30px;
   padding-bottom: 25px;
+  text-align: center;
 }
 
 .aboutbox {
-  width: 1000px;
-  height: 650px;
+  width: auto;
+  height: 750px;
   min-height: 300px;
   min-width: 700px;
-  max-width: 1000px;
-  max-height: 1000px;
+  max-width: 1600px;
+  max-height: 750px;
   column-count: 3;
-  column-gap: 150px;
+  column-gap: 50px;
   padding: 10px;
   display:flex ;
+  justify-content: center;
+  margin: auto;
 }
 
 .prof {
@@ -424,4 +427,14 @@ a:hover {
   background-color: #0f2e472a;
   padding-bottom: 10px;
   margin: auto;
+}
+
+.intext {
+  text-align: justify;
+  color: #fff;
+  background-color: #0f2e472a;
+}
+
+.as {
+  text-decoration: underline;
 }

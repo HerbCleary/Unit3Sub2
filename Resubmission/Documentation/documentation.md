@@ -52,9 +52,9 @@ In this following section I'll be showcasing:
 
 ## Timeline
 
-For the project I came up with this timeline that sets out a rough set of dates that I aim to start and finish the content for each of the 3 tasks and the dates that I had aimed to do so.
+I used Adobe Express to create this timeline that sets out a rough set of dates that I aim to start and finish the content for each of the 3 tasks and the dates that I had aimed to do so.
 
-![timeline](boards-charts/timeline.png)
+<img src="boards-charts/timeline.png" alt="drawing" height="650px" width="295px"/>
 
 ## Storyboard
 
@@ -113,10 +113,11 @@ The same as the page navigation but stylized the way my main navigation bar is.
 
 #
 
+
 ## Asset list
 
 
-<b>My photos:</b>
+**My photos:**
 Taken and owned by me.
 
   <img src="img/backorigin.jpg" alt="drawing" height="230px" width="200px"/>
@@ -128,19 +129,27 @@ Taken and owned by me.
 
 #
 
-<b>Boards and other document related assets:</b>
+**Boards and other document related assets:**
 Made using photoshop, owned by me.
 
   <img src="boards-charts/boardpg1.png" alt="drawing" height="250px" width="450px"/>
   <img src="boards-charts/boardpg2.png" alt="drawing" height="250px" width="450px"/>
   <img src="boards-charts/boardpg3.png" alt="drawing" height="250px" width="450px"/>
-    <img src="boards-charts/earlyboard1.png" alt="drawing" height="250px" width="450px"/>
+  <img src="boards-charts/earlyboard1.png" alt="drawing" height="250px" width="450px"/>
   <img src="boards-charts/earlyboard2.png" alt="drawing" height="250px" width="450px"/>
   <img src="boards-charts/navchart.png" alt="drawing" height="250px" width="450px"/>
   <img src="boards-charts/navchart2.png" alt="drawing" height="250px" width="450px"/>
-  <img src="boards-charts/timeline.png" alt="drawing" height="250px" width="450px"/>
 
-  <b>Progress screenshots:</b>
+#
+
+**Timeline:**
+My timeline was made using Adobe Express. https://express.adobe.com/sp/onboarding
+
+<img src="boards-charts/timeline.png" alt="drawing" height="650px" width="295px"/>
+
+#
+
+  **Progress screenshots:**
 
   <img src="img/earlypage.gif" alt="drawing" height="150px" width="450px"/>
   <img src="img/prog1.png" alt="drawing" height="250px" width="450px"/>
@@ -149,7 +158,8 @@ Made using photoshop, owned by me.
 
 #
 
-<b>Microsoft office 365:</b> Images are owned by Credly. https://www.credly.com/users/herb-cleary
+**Microsoft office 365:** 
+Images are owned by Credly. https://www.credly.com/users/herb-cleary
 
   <img src="img/mos_excel_expert.png" alt="drawing" height="200px" width="200px"/>
   <img src="img/mos_excel.png" alt="drawing" height="200px" width="200px"/>
@@ -161,7 +171,7 @@ Made using photoshop, owned by me.
 
 #
 
-<b>Photoshop:</b>
+**Photoshop:**
 All the photos shown were my own work and using my own photographs aside from the biker and the television images which I scanned from a book. I don't remember said book id or name it was like a year ago now.
 
   <img src="img/ps1.png" alt="drawing" height="150px" width="200px"/>
@@ -174,7 +184,8 @@ All the photos shown were my own work and using my own photographs aside from th
 
 #
 
-<b>Tinkercad:</b> All the creations shown from tinkercad are my own work and were my own. My tinkercad page: https://www.tinkercad.com/dashboard
+**Tinkercad:** 
+All the creations shown from tinkercad are my own work and were my own. My tinkercad page: https://www.tinkercad.com/dashboard
 
   <img src="img/tinkcad1.png" alt="drawing" height="150px" width="200px"/>
   <img src="img/tinkcad2.png" alt="drawing" height="150px" width="200px"/>
@@ -184,7 +195,8 @@ All the photos shown were my own work and using my own photographs aside from th
 
 #
 
-<b>Unit 13 website:</b> The website was a work of my own creation and all I show off is just screenshots. The website can be found here: https://github.com/HerbCleary
+**Unit 13 website:** 
+The website was a work of my own creation and all I show off is just screenshots. The website can be found here: https://github.com/HerbCleary
 
   <img src="img/web1.png" alt="drawing" height="150px" width="250px"/>
   <img src="img/web2.png" alt="drawing" height="150px" width="250px"/>
@@ -192,7 +204,8 @@ All the photos shown were my own work and using my own photographs aside from th
 
 #
 
-<b>Soundcloud:</b> There isn't any music playing on the website but a few screenshots of my songs from soundcloud. https://soundcloud.com/time_to_love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+**Soundcloud:** 
+There isn't any music playing on the website but a few screenshots of my songs from soundcloud. https://soundcloud.com/time_to_love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
   <img src="img/music1.png" alt="drawing" height="100px" width="250px"/>
   <img src="img/music2.png" alt="drawing" height="100px" width="250px"/>
@@ -295,11 +308,170 @@ To make sure the website was working I need to make sure I've tested and checked
 
 + ## Chrome
 
-  + I started by opening the website on Chrome, the default browser I had been working with, and tested out the links.
+  + I started by opening the website on Chrome.<br>
+  On the base machine I have been building the website on everything operated and ran smoothly with no sizing issues unless the web browser window width was altered on the portfolio page. I knew from my last unit that something like this would happen but I still cannot properly adjust it without making things horribly disfigured despite my best efforts.
 
+  + Aside from that it had very few issues and all the links and carousels worked perfectly and the pages loaded fast and with no issues.
+  
+  ![chrome3](testing/chrome3.png)
+
+  + When testing on another machine I immediately I encountered an issue with sizing on the Portfolio page, an issue I had many a time when making it and did my best to attempt to fix it. In the end I was unsuccessful. The closest I got to what the screen is meant to look like is by having it on 80% zoom on the page.
+
+
+  ![chrome1](testing/chrome1.png)
+  ![chrome2](testing/chrome2.png)
+
+  + A slight oddity I found was that the link for my Tinkercad page sends you to a log in page which is required to view it. Most unfortunate but I don't know how to avoid this issue as its the same whatever link for my Tinkercad that I have tried.
+
+  + Not much else of note other than I noticed a few spelling mistakes on a few things.
+
+#
+
++ ## Microsoft Edge
+
+  + Moving on to Microsoft Edge.<br>
+  I loaded it up and similarly to Chrome it worked with no issues on the base machine. Sizing was fine and would only have issue if tampered with via web browser width like before.
+
+  + The links all work fine once again and I had no issues navigating my pages aside from the previously mentioned Tinkercad link.
+
+  ![edge1](testing/edge1.png)
+
+  + Similarly so as before when tested on another machine with a smaller viewport it has a tantrum and breaks sizing on the portfolio page.
+
+  + Aside from the same results as Chrome there is nothing of note that is different or wrong with the website.
+
+  ![edge2](testing/edge2.png)
+
+#
+
++ ## Firefox
+
+  + Finally, Firefox.<br>
+  I loaded it up to the same results as Chrome and edge with it working with no issues on the base machine aside from the whole sizing fiasco that occurs when web width is tampered.
+
+  + The links are all working aside from the previously mentioned Tinkercad.
+
+  ![fire1](testing/fire1.png)
+
+  + Once again when tested on another machine with a smaller viewport it disagrees with it and breaks sizing on the portfolio page.
+
+  + Still loading just as fast as Chrome and Edge if not slightly faster by maybe a few 0.1's seconds.
+
+  ![fire2](testing/fire2.png)
+
+#
 
 # Feedback
 
 ###  Nojus
 Everything looks great the disorganised boxes give it a brick like structure which looks great and the text is very detailed, the "About me" section would benefit to have more details though, and the homepage is pretty well made as well.
 the only other thing i can suggest is to not sit infront of the fucking sun
+
+### Harry
+It's pretty good, you've presented pretty much anything an employer would want to know in order to offer you a job. The layout of the site is good but my only real gripe is the font. If you spend a moment reading all of the content it can go a little hard on the eyes so that you have to look away. Other than that it's pretty much perfect.
+
+### Patryk
+I really got interested (Best portfolio) on your portfolio, it gives me the vibe, and memories of my childhood. I really liked the font and the background of your dog.
+You've presented the information in great detail, and appropriate, all links are working with no issue, added carousel that fits images in the boxes.
+
+### Aiden Scowen
+The font is hard to read against the background and the colour of text choice. The links could use more highlighting as they're hard to come across, they are barely noticeable without pointing out or rarely coming over them.
+
+The layout is very nicely done, easy to go over and the content looks really great in the boxes, no over filling the boxes. The nav bar looks great, the links are nicely interactive. The pages load really fast and smooth transitions to and from pages.
+
+### Ace
+The site is very attractive and engaging. The information provided is informative and easy to understand/read, the font and background combo might be difficult to understand for some other people though. The information provides within the 'About' section is a good overview of your attributes and history and would be very useful for any employers looking at it. I don't really have any negatives besides the one mentioned previously.
+
+### ash
+The website has a lot of information about achievements which is really cool and you've gone into a lot of detail about it which is really nice for people to read. The design looks really nice and I like it because it is unique and you've got a fancy nav bar which is really cool aswell. You have nice pictures which shows what you look like which is really cool and I can see you've done a lot to make you're portfolio look really nice. Nice background. Nice pictures of your hobbies and everything looks nice. Also you taked about work experience which is really nice. overall I think 10/10
+
+# Updates and changes
+
+**Change 1:**
+
+A lot of my feedback was positive and people had very little issues with the website but a common thing I did get was that the font was a bit hard to read and strained the eyes a little.
+
+I tried changing it to a different font and gave that a try but it was a huge mess. It wasn't too bad on my homepage but had a lot of issues on my Portfolio page and was incredibly awkward and would require me to resize multiple sections of text.
+
+**Solution: Unchanged**
+
+<img src="testing/font1.png" alt="drawing" height="375px" width="500px"/>
+<img src="testing/font2.png" alt="drawing" height="375px" width="700px"/>
+
+I decided to drop it in the end and simply make people suffer via having to squint or look away after reading too much I guess.
+
+#
+
+**Change 2**
+
+
+Another font related issue that someone had was that it was hard to discover the links in the Portfolio section so I tried changing it a bit to try and make it stand out.
+
+**Solution: Made portfolio links underlined**
+
+<img src="testing/font3.png" alt="drawing" height="375px" width="700px"/>
+
+#
+
+# Task 3
+
+## Review
+
+#
+
+With the website complete, checked for issues and given feedback I'm here at the end to review if I feel like it's met some of the requirements and is accurately made for the intended purpose and audience I had set out to meet.
+
+At the start of the document I made this list of what I believed to be the Audience needs and the purpose needs that I wanted the website to show.
+
+#
+
+    It needs to show employers...
+
++ I have a good selection of IT skills (MOS, Photoshop, etc...)
++ I have good personal qualities (Versatile, Experienced, positive personality)
++ That I have qualifications
+
+#
+
+    The purpose is to showcase...
+
++ My qualifications
++ My individual skills
++ My previous work experience
++ And a bit about myself
+
+#
+
+After reviewing my feedback and completing my website I feel that in the most case has met almost all of the individual wants and needs I originally stated for the site.
+
+Feedback stated that the website was well made with only a few having slight issues with the site being how the font was presented and matched with the background. ***"The font is hard to read against the background"***
+
+They were happy with the information on display and said that it fit well with how everything was presented with one of my classmates stating: ***"the 'About' section is a good overview of your attributes and history"***.
+
+My assessors got the message that I was trying to present well and I feel quite happy with how it comes across.
+
+In my own personal assessment of the site I think it met all of the intended criteria aside from one which is that I don't feel like it really meet the requirement I had put to show off some of my qualities.
+
+I feel like I probably could have done something else or something better to improve how it showcases my Versatility or some of the other more personal traits I wanted to showcase. In the end there will always be something else I have to improve but as is I think the website has done pretty well and meets the standards I wanted it to meet. If only just.
+
+#
+
+## Review design:
+
+In terms of design, the website went through it's changes but ultimately stayed quite true to the boards I settled on. I had liked the initial boards I had done but after I started building I found that it didn't feel quite right and didn't present as well as I hoped. I didn't feel like it was the right way to go with presenting information so I decided to scrap it and start over with new boards after looking at a few more portfolios and finding a design that I thought was better overall.
+
+*Final design portfolio page*
+
+  ![board1](boards-charts/boardpg2.png)
+
+*Original design portfolio page*
+
+  ![board2](boards-charts/earlyboard2.png)
+
+The end result is quite true to its origin with the only real change being where the navigation bar is and how the boxes present their information alongside an extra 5th box at the bottom.
+
+  ![page](testing/chrome3.PNG)
+
+I'm happy with how the website turned out and feel like it represents me as true to me as I can be with its background, font and colour scheme overall.
+
+# End
