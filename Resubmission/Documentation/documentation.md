@@ -82,13 +82,13 @@ After setting up a basic page I made some progress and tried out using an animat
 
 # Storyboard alterations/progress
 
-![prog1](img/prog1.png)
+![prog1](doc-img/prog1.PNG)
 
 After starting the building process of my website I changed around how the navigation bar was positioned. I tried it both at the top of the page, where I had originally planned it to be in my storyboard, and then at the bottom of the page which I ended up liking more. I tested it out with a similar animation as before but instead of sliding in from the left of the screen it rises up from the bottom. I liked how the animation worked with it sliding up and decided to deviate from my initial board design to have it below.
 
 I then added a carousel in the center that had the main aspects of my skills that I wanted to show: MOS, Photoshop, 3D Models, Music and website creation.
 
-![prog2](img/prog2.png)
+![prog2](doc-img/prog2.png)
 
 The portfolio page is similar but slightly different from the initial board design. I kept the block design similar but changed the contents. Instead of one big block showcasing the images and previous works and the smaller block showcasing the info of said big block I changed it to have both block and image be put into one block of their own.
 
@@ -151,23 +151,23 @@ My timeline was made using Adobe Express. https://express.adobe.com/sp/onboardin
 
   **Progress screenshots:**
 
-  <img src="img/earlypage.gif" alt="drawing" height="150px" width="450px"/>
-  <img src="img/prog1.png" alt="drawing" height="250px" width="450px"/>
-  <img src="img/prog2.png" alt="drawing" height="250px" width="450px"/>
-  <img src="img/prog3.png" alt="drawing" height="250px" width="450px"/>
+  <img src="doc-img/earlypage.gif" alt="drawing" height="150px" width="450px"/>
+  <img src="doc-img/prog1.png" alt="drawing" height="250px" width="450px"/>
+  <img src="doc-img/prog2.png" alt="drawing" height="250px" width="450px"/>
+  <img src="doc-img/prog3.png" alt="drawing" height="250px" width="450px"/>
 
 #
 
 **Microsoft office 365:** 
 Images are owned by Credly. https://www.credly.com/users/herb-cleary
 
-  <img src="img/mos_excel_expert.png" alt="drawing" height="200px" width="200px"/>
-  <img src="img/mos_excel.png" alt="drawing" height="200px" width="200px"/>
-  <img src="img/mos_word_expert.png" alt="drawing" height="200px" width="200px"/>
-  <img src="img/mos_word.png" alt="drawing" height="200px" width="200px"/>
-  <img src="img/mos_associate.png" alt="drawing" height="200px" width="200px"/>
-  <img src="img/mos_office_expert.png" alt="drawing" height="200px" width="200px"/>      
-  <img src="img/mos_powerpoint.png" alt="drawing" height="200px" width="200px"/> 
+  <img src="doc-img/mos_excel_expert.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/mos_excel.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/mos_word_expert.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/mos_word.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/mos_associate.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/mos_office_expert.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/mos_powerpoint.png" alt="drawing" height="200px" width="200px"/> 
 
 #
 
