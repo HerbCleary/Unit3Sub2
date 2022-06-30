@@ -121,12 +121,12 @@ The same as the page navigation but stylized the way my main navigation bar is.
 **My photos:**
 Taken and owned by me.
 
-  <img src="img/backorigin.jpg" alt="drawing" height="230px" width="200px"/>
-    <img src="img/bg1.png" alt="drawing" height="130px" width="200px"/>
-        <img src="img/bg2.png" alt="drawing" height="130px" width="200px"/>
-            <img src="img/bg3.png" alt="drawing" height="130px" width="200px"/>
- <img src="img/me1.jpg" alt="drawing" height="200px" width="200px"/>
- <img src="img/me2.jpg" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/backorigin.jpg" alt="drawing" height="230px" width="200px"/>
+  <img src="doc-img/bg1.png" alt="drawing" height="130px" width="200px"/>
+  <img src="doc-img/bg2.png" alt="drawing" height="130px" width="200px"/>
+  <img src="doc-img/bg3.png" alt="drawing" height="130px" width="200px"/>
+  <img src="doc-img/me1.jpg" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/me2.jpg" alt="drawing" height="200px" width="200px"/>
 
 #
 
@@ -165,58 +165,58 @@ Images are owned by Credly. https://www.credly.com/users/herb-cleary
   <img src="doc-img/MOS_Excel_Expert.png" alt="drawing" height="200px" width="200px"/>
   <img src="doc-img/MOS_Excel.png" alt="drawing" height="200px" width="200px"/>
   <img src="doc-img/MOS_Word_Expert.png" alt="drawing" height="200px" width="200px"/>
-  <img src="doc-img/mos_word.png" alt="drawing" height="200px" width="200px"/>
-  <img src="doc-img/mos_associate.png" alt="drawing" height="200px" width="200px"/>
-  <img src="doc-img/mos_office_expert.png" alt="drawing" height="200px" width="200px"/>
-  <img src="doc-img/mos_powerpoint.png" alt="drawing" height="200px" width="200px"/> 
+  <img src="doc-img/MOS_Word.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/MOS_Associate.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/MOS_Office_Expert.png" alt="drawing" height="200px" width="200px"/>
+  <img src="doc-img/MOS_Powerpoint.png" alt="drawing" height="200px" width="200px"/> 
 
 #
 
 **Photoshop:**
 All the photos shown were my own work and using my own photographs aside from the biker and the television images which I scanned from a book. I don't remember said book id or name it was like a year ago now.
 
-  <img src="img/ps1.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/ps2.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/ps3.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/ps4.jpg" alt="drawing" height="150px" width="200px"/>
-  <img src="img/ps5.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/ps6.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/ps7.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/ps1.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/ps2.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/ps3.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/ps4.jpg" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/ps5.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/ps6.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/ps7.png" alt="drawing" height="150px" width="200px"/>
 
 #
 
 **Tinkercad:** 
 All the creations shown from tinkercad are my own work and were my own. My tinkercad page: https://www.tinkercad.com/dashboard
 
-  <img src="img/tinkcad1.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/tinkcad2.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/tinkcad3.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/tinkcad4.png" alt="drawing" height="150px" width="200px"/>
-  <img src="img/tinkcad5.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad1.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad2.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad3.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad4.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad5.png" alt="drawing" height="150px" width="200px"/>
 
 #
 
 **Unit 13 website:** 
 The website was a work of my own creation and all I show off is just screenshots. The website can be found here: https://github.com/HerbCleary
 
-  <img src="img/web1.png" alt="drawing" height="150px" width="250px"/>
-  <img src="img/web2.png" alt="drawing" height="150px" width="250px"/>
-  <img src="img/web3.png" alt="drawing" height="150px" width="250px"/>
+  <img src="doc-img/web1.png" alt="drawing" height="150px" width="250px"/>
+  <img src="doc-img/web2.png" alt="drawing" height="150px" width="250px"/>
+  <img src="doc-img/web3.png" alt="drawing" height="150px" width="250px"/>
 
 #
 
 **Soundcloud:** 
 There isn't any music playing on the website but a few screenshots of my songs from soundcloud. https://soundcloud.com/time_to_love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
-  <img src="img/music1.png" alt="drawing" height="100px" width="250px"/>
-  <img src="img/music2.png" alt="drawing" height="100px" width="250px"/>
-  <img src="img/music3.png" alt="drawing" height="100px" width="250px"/>
-  <img src="img/music4.png" alt="drawing" height="100px" width="250px"/>
-  <img src="img/music5.png" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music1.png" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music2.png" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music3.png" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music4.png" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music5.png" alt="drawing" height="100px" width="250px"/>
 
 #
 
-The overlay for the background and the css code for the navigation bar were both from W3Schools. 
+The overlay for the background and the css code for the navigation bar were both from W3Schools.
 
 Overlay effect
 <https://www.w3schools.com/howto/howto_css_overlay.asp>
@@ -229,7 +229,7 @@ CSS Animation
 <b>Text:</b> I used the font Amatic SC cursive from google fonts
 https://fonts.google.com/specimen/Amatic+SC?query=amati
 
-<img src="img/font.png" alt="drawing" height="75px" width="500px"/>
+<img src="doc-img/font.PNG" alt="drawing" height="75px" width="500px"/>
 
 #
 
@@ -274,7 +274,7 @@ Aspects I want to show off: (Creative and a learner)
 Learner aspects:
 
 + Versatile
-+ Dedicated to finishing things
++ Fast learner
 + Quick to adapt to new things
 
 Creative aspects:
@@ -314,13 +314,13 @@ To make sure the website was working I need to make sure I've tested and checked
 
   + Aside from that it had very few issues and all the links and carousels worked perfectly and the pages loaded fast and with no issues.
   
-  ![chrome3](testing/chrome3.png)
+  ![chrome3](testing/chrome3.PNG)
 
   + When testing on another machine I immediately I encountered an issue with sizing on the Portfolio page, an issue I had many a time when making it and did my best to attempt to fix it. In the end I was unsuccessful. The closest I got to what the screen is meant to look like is by having it on 80% zoom on the page.
 
 
-  ![chrome1](testing/chrome1.png)
-  ![chrome2](testing/chrome2.png)
+  ![chrome1](testing/chrome1.PNG)
+  ![chrome2](testing/chrome2.PNG)
 
   + A slight oddity I found was that the link for my Tinkercad page sends you to a log in page which is required to view it. Most unfortunate but I don't know how to avoid this issue as its the same whatever link for my Tinkercad that I have tried.
 
@@ -335,13 +335,13 @@ To make sure the website was working I need to make sure I've tested and checked
 
   + The links all work fine once again and I had no issues navigating my pages aside from the previously mentioned Tinkercad link.
 
-  ![edge1](testing/edge1.png)
+  ![edge1](testing/edge1.PNG)
 
   + Similarly so as before when tested on another machine with a smaller viewport it has a tantrum and breaks sizing on the portfolio page.
 
   + Aside from the same results as Chrome there is nothing of note that is different or wrong with the website.
 
-  ![edge2](testing/edge2.png)
+  ![edge2](testing/edge2.PNG)
 
 #
 
@@ -352,13 +352,13 @@ To make sure the website was working I need to make sure I've tested and checked
 
   + The links are all working aside from the previously mentioned Tinkercad.
 
-  ![fire1](testing/fire1.png)
+  ![fire1](testing/fire1.PNG)
 
   + Once again when tested on another machine with a smaller viewport it disagrees with it and breaks sizing on the portfolio page.
 
   + Still loading just as fast as Chrome and Edge if not slightly faster by maybe a few 0.1's seconds.
 
-  ![fire2](testing/fire2.png)
+  ![fire2](testing/fire2.PNG)
 
 #
 
@@ -396,8 +396,8 @@ I tried changing it to a different font and gave that a try but it was a huge me
 
 **Solution: Unchanged**
 
-<img src="testing/font1.png" alt="drawing" height="375px" width="500px"/>
-<img src="testing/font2.png" alt="drawing" height="375px" width="700px"/>
+<img src="testing/font1.PNG" alt="drawing" height="375px" width="500px"/>
+<img src="testing/font2.PNG" alt="drawing" height="375px" width="700px"/>
 
 I decided to drop it in the end and simply make people suffer via having to squint or look away after reading too much I guess.
 
@@ -410,7 +410,7 @@ Another font related issue that someone had was that it was hard to discover the
 
 **Solution: Made portfolio links underlined**
 
-<img src="testing/font3.png" alt="drawing" height="375px" width="700px"/>
+<img src="testing/font3.PNG" alt="drawing" height="375px" width="700px"/>
 
 #
 
