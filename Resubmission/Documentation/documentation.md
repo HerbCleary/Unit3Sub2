@@ -168,7 +168,7 @@ Images are owned by Credly. https://www.credly.com/users/herb-cleary
   <img src="doc-img/MOS_Word.png" alt="drawing" height="200px" width="200px"/>
   <img src="doc-img/MOS_Associate.png" alt="drawing" height="200px" width="200px"/>
   <img src="doc-img/MOS_Office_Expert.png" alt="drawing" height="200px" width="200px"/>
-  <img src="doc-img/MOS_Powerpoint.png" alt="drawing" height="200px" width="200px"/> 
+  <img src="doc-img/MOS_PowerPoint.png" alt="drawing" height="200px" width="200px"/> 
 
 #
 
@@ -188,31 +188,31 @@ All the photos shown were my own work and using my own photographs aside from th
 **Tinkercad:** 
 All the creations shown from tinkercad are my own work and were my own. My tinkercad page: https://www.tinkercad.com/dashboard
 
-  <img src="doc-img/tinkcad1.png" alt="drawing" height="150px" width="200px"/>
-  <img src="doc-img/tinkcad2.png" alt="drawing" height="150px" width="200px"/>
-  <img src="doc-img/tinkcad3.png" alt="drawing" height="150px" width="200px"/>
-  <img src="doc-img/tinkcad4.png" alt="drawing" height="150px" width="200px"/>
-  <img src="doc-img/tinkcad5.png" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad1.PNG" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad2.PNG" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad3.PNG" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad4.PNG" alt="drawing" height="150px" width="200px"/>
+  <img src="doc-img/tinkcad5.PNG" alt="drawing" height="150px" width="200px"/>
 
 #
 
 **Unit 13 website:** 
 The website was a work of my own creation and all I show off is just screenshots. The website can be found here: https://github.com/HerbCleary
 
-  <img src="doc-img/web1.png" alt="drawing" height="150px" width="250px"/>
-  <img src="doc-img/web2.png" alt="drawing" height="150px" width="250px"/>
-  <img src="doc-img/web3.png" alt="drawing" height="150px" width="250px"/>
+  <img src="doc-img/web1.PNG" alt="drawing" height="150px" width="250px"/>
+  <img src="doc-img/web2.PNG" alt="drawing" height="150px" width="250px"/>
+  <img src="doc-img/web3.PNG" alt="drawing" height="150px" width="250px"/>
 
 #
 
 **Soundcloud:** 
 There isn't any music playing on the website but a few screenshots of my songs from soundcloud. https://soundcloud.com/time_to_love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
-  <img src="doc-img/music1.png" alt="drawing" height="100px" width="250px"/>
-  <img src="doc-img/music2.png" alt="drawing" height="100px" width="250px"/>
-  <img src="doc-img/music3.png" alt="drawing" height="100px" width="250px"/>
-  <img src="doc-img/music4.png" alt="drawing" height="100px" width="250px"/>
-  <img src="doc-img/music5.png" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music1.PNG" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music2.PNG" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music3.PNG" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music4.PNG" alt="drawing" height="100px" width="250px"/>
+  <img src="doc-img/music5.PNG" alt="drawing" height="100px" width="250px"/>
 
 #
 
